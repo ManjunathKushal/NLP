@@ -78,8 +78,8 @@ print(filtered_words)
 
 #stemming
 
-from nltk.stem.porter import PorterStemmer
-porter_stemmer=PorterStemmer()
+#from nltk.stem.porter import PorterStemmer
+#porter_stemmer=PorterStemmer()
 
 
 # In[24]:
